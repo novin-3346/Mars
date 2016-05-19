@@ -220,7 +220,8 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    sudo_user={novin-3346},--Sudo users
+    sudo_user={novin-3346},--sudo user
+    
     "invite",
     "all",
     "leave_ban",
